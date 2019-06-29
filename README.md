@@ -1,1 +1,1 @@
-# Latent_symantic_analysis
+# Latent_semantic_analysis
